@@ -1,0 +1,36 @@
+_repo: Yoga-as-philosophy-and-religion_74250
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dasgupta, Surendranath
+    alias: Gupta, Surendra Nath Das
+    birthdate: 1885
+    deathdate: 1952
+    gutenberg_agent_id: '4741'
+    url: http://www.gutenberg.org/2009/agents/4741
+    wikipedia: https://en.wikipedia.org/wiki/Surendranath_Dasgupta
+description: ''
+gutenberg_issued: '2024-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74250'
+  lccn: '25009595'
+language: en
+pgterms:marc904: https://archive.org/details/Yoga.As.Philosophy.And.Religion.By.Surendranath.Dasgupta
+pgterms:marc905: 20201225101908dasgupta
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLONDON :$bKEGAN PAUL, TRENCH, TRUBNER & CO., LTD, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yoga'
+- !lcsh 'Hindu philosophy'
+- !lcsh 'Patañjali'
+- !lcc 'B'
+- GITenberg
+title: Yoga as philosophy and religion
+url: http://www.gutenberg.org/ebooks/74250
