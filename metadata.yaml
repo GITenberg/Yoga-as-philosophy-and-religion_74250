@@ -1,5 +1,8 @@
 _repo: Yoga-as-philosophy-and-religion_74250
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74250-h/images/cover.jpg
 creator:
   author:
     agent_name: Dasgupta, Surendranath
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4741
     wikipedia: https://en.wikipedia.org/wiki/Surendranath_Dasgupta
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74250#Yoga-as-philosophy-and-religion
 gutenberg_issued: '2024-08-13'
 gutenberg_type: Text
 identifiers:
